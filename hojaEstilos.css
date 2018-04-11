@@ -1,3 +1,5 @@
-.ColorDiv{
-  background: red;
+.abs-center-x {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
