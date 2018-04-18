@@ -3,3 +3,56 @@
     left: 50%;
     transform: translateX(-50%);
 }
+
+.paral {
+min-height: 600px;
+background-attachment: fixed;
+background-size: cover;
+background-position: 50% 50%;
+}
+
+.paral p {
+font-size: 24px;
+color: rgba(255, 255, 255, 1);
+text-align: center;
+line-height: 60px;
+}
+
+/* Heading for Parallax Section */
+.paral h1 {
+color: rgba(255, 255, 255, 1);
+/*font-size: 60px;*/
+font:50px "Ultra";
+text-align: center;
+padding-top: 60px;
+line-height: 100px;
+}
+
+.paralsec {
+
+background-image: url(content/Imagen1.jpg);
+}
+
+.paralsec1 {
+background-image: url(content/Imagen2.jpg);
+}
+
+.paralsec2 {
+background-image: url(content/Imagen3.jpg);
+}
+
+.jumbotron{margin-bottom: 0;}
+
+
+.navbar{
+  background-color: rgba(0,0,0,0.6) !important;
+}
+
+
+
+.ContenedorTexto{
+  background: rgba(0,0,0,0.1);
+  box-shadow: 3px 3px 10px black;
+  border-radius: 50px;
+
+}
